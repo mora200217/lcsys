@@ -12,7 +12,7 @@ $$
 Con las siguientes recomendaciones de estabilidad 
 
 $$
-    Ra / Rb \approx 2 \hspace{20pt} R \gt 1~\text{k}\Omega 
+    \frac{Ra}{Rb} \approx 2 \hspace{20pt} R \gt 1~\text{k}\Omega 
 $$
 
 
