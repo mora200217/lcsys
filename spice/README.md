@@ -15,4 +15,14 @@ $$
     \frac{Ra}{Rb} \approx 2 \hspace{20pt} R \gt 1~\text{k}\Omega 
 $$
 
+### LM331 
+Circuito integrado (IC) conversor de tensión-frecuencia y viscecersa. Nos permitirá extraer la modulación de frecuencia fruto del cambio de capacitancia del sensor, a una señal de tensión que podamos digitalizar. Buscamos que la respuesta sea lo más lineal posible. 
 
+
+
+
+
+
+
+
+ 
