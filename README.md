@@ -28,11 +28,4 @@ $$
 Circuito integrado (IC) conversor de tensión-frecuencia y viscecersa. Nos permitirá extraer la modulación de frecuencia fruto del cambio de capacitancia del sensor, a una señal de tensión que podamos digitalizar. Buscamos que la respuesta sea lo más lineal posible. 
 
 
-
-
-
-
-
-
->>>>>>> e8a3c9fbbf3ea2cbceec44d84bb334b46d7924ef
  
